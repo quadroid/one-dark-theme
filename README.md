@@ -2,7 +2,7 @@
 
 Atom’s iconic One Dark theme carefully ported to Delphi and Lazarus. All text editing features are supported in both IDEs, including obscure Delphi styles that are typically omitted in user-created themes.
 
-![Screenshot](screenshot.png "One Dark theme screenshot"])
+![Screenshot](screenshot.png "One Dark theme screenshot")
 
 ## Installation
 
