@@ -6,7 +6,7 @@ Atom’s iconic One Dark theme carefully ported to Delphi and Lazarus. All text 
 
 ## Installation
 
-On Windows and Delphi you can use the included `atom-one-dark.theme.xml` file with [DITE](/RRUZ/delphi-ide-theme-editor), which is quick and easy but requires installing additional program. Copy the theme `.xml` file to `%ProgramData%\DITE\Themes`, launch DITE and apply the theme.
+On Windows and Delphi you can use the included `atom-one-dark.theme.xml` file with [DITE](https://github.com/RRUZ/delphi-ide-theme-editor), which is quick and easy but requires installing additional program. Copy the theme `.xml` file to `%ProgramData%\DITE\Themes`, launch DITE and apply the theme.
 
 *Or*, if you don’t want to bother installing DITE, use the manual installation methods described below. In case of Lazarus this is actually preferred, because DITE exports “modified line” Lazarus style incorrectly.
 
